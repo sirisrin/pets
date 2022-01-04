@@ -1,2 +1,6 @@
 steve
 bucky
+Thor    
+Iron Man
+Ant-man
+
