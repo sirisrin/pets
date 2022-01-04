@@ -3,4 +3,7 @@ bucky
 Thor    
 Iron Man
 Ant-man
+Wanda
+Dr strange
+Hawkeye
 
